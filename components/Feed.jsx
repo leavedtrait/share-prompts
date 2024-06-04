@@ -1,6 +1,6 @@
 import React from 'react'
 
-const feed = () => {
+const Feed = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const feed = () => {
   )
 }
 
-export default feed
+export default Feed
