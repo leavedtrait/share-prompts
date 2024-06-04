@@ -11,7 +11,7 @@ const handler = NextAuth({
       clientSecret: process.env.GOOGLE_CLIENT_SECRET,
     })
   ],
-  
+  callbacks: {
     async session({ session }) {
       // store the user id from MongoDB to session
       const sessionUser = await User.findOne({ email: session.user.email });
@@ -42,6 +42,6 @@ const handler = NextAuth({
       }
     },
   }
-)
+})
 
 export { handler as GET, handler as POST }
