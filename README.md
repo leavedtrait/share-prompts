@@ -1,10 +1,10 @@
 ### Introducing Promptopia ,a website built for sharing Ai prompts for LLM`s
 
 ## Tech Stack 
-React
-Nextjs 
-MongoDb 
-Tailwind
+- React
+- Nextjs 
+- MongoDb 
+- Tailwind
 
 ## Getting Started
 
