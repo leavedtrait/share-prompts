@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Introducing Promptopia ,a website built for sharing Ai prompts for LLM`s
+## Tech Stack 
+React
+Nextjs 
+MongoDb 
+Tailwind
 
 ## Getting Started
 
