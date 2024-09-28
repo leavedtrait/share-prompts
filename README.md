@@ -1,4 +1,4 @@
-### Introducing Promptopia ,a website built for sharing Ai prompts for LLM`s
+### Introducing Promptopia ,a website built for sharing Ai prompts
 
 ## Tech Stack 
 - React
